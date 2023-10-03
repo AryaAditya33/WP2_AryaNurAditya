@@ -1,4 +1,5 @@
-    <title>Tampil Data Matakuliah</title>
+<head>  
+    <title>Tampilan Data Matakuliah</title>
 </head>
 
 <body>
@@ -6,7 +7,7 @@
         <table>
             <tr>
                 <th colspan="3">
-                    Tampil Data Mata Kuliah
+                    Menampilkan Data Mata Kuliah
                 </th>
             </tr>
             <tr>
@@ -15,14 +16,14 @@
                 </td>
             </tr>
             <tr>
-                <th>Kode MTK</th>
+                <th>Kode Mata Kuliah</th>
                 <th>:</th>
                 <td>
                     <?= $kode; ?>
                 </td>
             </tr>
             <tr>
-                <td>Nama MTK</td>
+                <td>Nama Mata Kuliah</td>
                 <td>:</td>
                 <td>
                     <?= $nama; ?>
