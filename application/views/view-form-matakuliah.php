@@ -11,7 +11,7 @@ method="post">
      <table>
         <tr>
             <th colspan="3">
-                Form Input Data Mata Kuliah BSI
+                Form Input Data Mata Kuliah
             </th>
         </tr>
         <tr>

@@ -16,6 +16,6 @@ class Matakuliah extends CI_Controller
             'sks' => $this->input->post('sks')
         ];
 
-        $this->load->view('View-data-matakuliah', $data);
+        $this->load->view('view-data-matakuliah', $data);
     }
 }
